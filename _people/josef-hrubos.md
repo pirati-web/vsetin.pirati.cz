@@ -4,15 +4,13 @@ name:     Josef Hruboš  	# běžně používáné jméno
 fullname: Josef Hruboš  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
-- pms
 
-img: people/ppp.jpg   # 165 x 220
+img: people/josef-hrubos.png   # 165 x 220
 description: 1. místopředseda MS VS, OSVČ # kratký popis, max 160 znaků
 mail:
 - josef.hrubos@pirati.cz
 profiles:
   facebook: https://www.facebook.com/josef.hrubos
-ordpms: 2
 ---
 
 Josef Hruboš (*8. října 1988, Vsetín) vystřídal několik zaměstnání bez zjevného naplnění užitečnou prací.

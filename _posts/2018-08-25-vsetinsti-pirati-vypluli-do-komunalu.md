@@ -45,8 +45,7 @@ poruch, žádosti na vyvezení odpadu mimo svozový plán a mnohé další vylep
 komunikace s úřady.
 
 
-Předseda vsetínských pirátů, Radek Nohavica, pozval přítomné na setkání s Ivanem Bartošem, které
-proběhne v pátek 24.8. v restauraci Náhon od 12-ti hodin a představil harmonogram kampaně, kdy se
+Předseda vsetínských pirátů, Radek Nohavica, představil harmonogram kampaně, kdy se
 mohou občané těšit na moštování u městského úřadu nebo jezdění na lodičkách v parku tak, aby lidé
 mohli osobně poznat jednotlivé kandidáty.
 

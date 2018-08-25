@@ -10,13 +10,12 @@ excerpt: >-
 
 ---
 
-Vítejte v návodu pro administraci krajského webu jihomoravského sdružení Pirátské strany
+Vítejte v návodu pro administraci krajského webu vsetinskeho sdružení Pirátské strany
 
-* náš projekt na [Githubu](https://github.com/): [https://github.com/pirati-web/jihomoravsky.pirati.cz](https://github.com/pirati-web/jihomoravsky.pirati.cz)
-* adresa webu: [https://jihomoravsky.pirati.cz](https://jihomoravsky.pirati.cz) (master branch na GitHubu)
-* náhled webu: [https://pirati-web.github.io/jihomoravsky.pirati.cz](https://pirati-web.github.io/jihomoravsky.pirati.cz/) (gh-pages branch)
-* zkratka pro náhled webu: [bit.ly/piratijmk](http://bit.ly/piratijmk)
-* adresa pro administraci přes CMS:  [https://pirati-web.github.io/jihomoravsky.pirati.cz/admin](https://pirati-web.github.io/jihomoravsky.pirati.cz/admin)
+* náš projekt na [Githubu](https://github.com/): [https://github.com/pirati-web/vsetin.pirati.cz](https://github.com/pirati-web/vsetin.pirati.cz)
+* adresa webu: [https://vsetin.pirati.cz](https://vsetin.pirati.cz) (master branch na GitHubu)
+* náhled webu: [https://pirati-web.github.io/vsetin.pirati.cz](https://pirati-web.github.io/vsetin.pirati.cz/) (gh-pages branch)
+* adresa pro administraci přes CMS:  [https://pirati-web.github.io/vsetin.pirati.cz/admin](https://pirati-web.github.io/vsetin.pirati.cz/admin)
 
 * články se nacházejí v adresáři `_posts`
 * profily lidí se nachází v `_people`
@@ -28,7 +27,7 @@ Vítejte v návodu pro administraci krajského webu jihomoravského sdružení P
 # Postup pro editaci v Githubu
 
 1. Je třeba vytvořit si svůj účet v GitHubu a zažádat si o práva k zápisu
-2. Přihlásit se a přejít na [https://github.com/pirati-web/jihomoravsky.pirati.cz](https://github.com/pirati-web/jihomoravsky.pirati.cz)
+2. Přihlásit se a přejít na [https://github.com/pirati-web/vsetin.pirati.cz](https://github.com/pirati-web/vsetin.pirati.cz)
 3. Výběr branche - defaultně je zvolena `gh-pages` - [screenshot]({{ "/assets/img/articles/admin/01-vyber-branche.png" | relative_url }}){:target="_blank"}
 4. proveďte vaše změny
   * nalezení a úprava požadovaného souboru - [screenshoty]({{ "/assets/img/articles/admin/02-vyber-souboru.png" | relative_url }}){:target="_blank"}
@@ -36,7 +35,7 @@ Vítejte v návodu pro administraci krajského webu jihomoravského sdružení P
   * nebo nahrání souboru (např. obrázku) z disku [screenshoty]({{ "/assets/img/articles/admin/04-upload.png" | relative_url }}){:target="_blank"}
 5. dole popište vaše změny a potvrďte `Commit changes` - [screenshot]({{ "/assets/img/articles/admin/05-commit.png" | relative_url }}){:target="_blank"}
 6. Počkejte cca 20 sekund, než GitHub zkompiluje vaše změny do statického HTML
-7. Ověřte na [bit.ly/piratijmk](http://bit.ly/piratijmk){:target="_blank"}, jak se vaše změny v branchi `gh-pages` odrazily na podobě webu, v případě chyb je opravte
+7. Ověřte na [https://pirati-web.github.io/vsetin.pirati.cz/](https://pirati-web.github.io/vsetin.pirati.cz/){:target="_blank"}, jak se vaše změny v branchi `gh-pages` odrazily na podobě webu, v případě chyb je opravte
 8. Pokud je upravený web v `gh-pages` branchi v pořádku, přepněte se do `master` branche a proveďte `merge` `gh-pages` do `mastera` - [screenshoty]({{ "/assets/img/articles/admin/06-merge.png" | relative_url }}){:target="_blank"}:
   * V GitHubu klikneme na `New pull request`
   * Na `Compare changes` stránce vybereme `base: master` a `compare: gh-pages`
@@ -68,7 +67,7 @@ Vítejte v návodu pro administraci krajského webu jihomoravského sdružení P
 # Tipy pro pokročilé:
 
 * Samostatné stránky se nacházejí v adresáři `landing`. Obsahují parametr `permalink` obsahující jejich přímou adresu
-* Články lze upravovat rovněž přes [administrační rozhraní](https://pirati-web.github.io/jihomoravsky.pirati.cz/admin){:target="_blank"} (po přihlášení vašim GitHub účtem) vyvinuté Václavem Klecandou. Může to být pohodlnější přes to, že v něm nefunguje zobrazování obrázků a náhled WYSIWYG editoru je nepřesný.
+* Články lze upravovat rovněž přes [administrační rozhraní](https://pirati-web.github.io/vsetin.pirati.cz/admin){:target="_blank"} (po přihlášení vašim GitHub účtem) vyvinuté Václavem Klecandou. Může to být pohodlnější přes to, že v něm nefunguje zobrazování obrázků a náhled WYSIWYG editoru je nepřesný.
 * V těle článků lze kromě Markdownu (viz níže) využívat i rovnou HTML.
 * Celý web je zkopírován z webu celostátního, jehož administrace stylů je dost šílená. Všechny úpravy stylu pro krajský web se nachází v souborech `/_sass/jmk-custom.scss` a `/_sass/jmk-custom-landing.scss`
 * Úpravy webu lze navrhovat i bez příslušných práv vytvořením pull requestu - [screenshot]({{ "/assets/img/articles/admin/07-pull-request.png" | relative_url }}){:target="_blank"}

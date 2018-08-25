@@ -2,12 +2,11 @@
 uid: adam.vales
 name:     Adam Valeš  	# běžně používáné jméno
 fullname: Adam Valeš  	# jméno s tituly etc.
-category:                   # kategorie: clenove
-- clenove
+category:                   # kategorie: clen
 - pms
 
 img: people/adam-vales.png   # 165 x 220
-description: programátor, místopředseda Místního sdružení Pirátů # kratký popis, max 160 znaků
+description: 2. místopředseda místního sdružení, programátor. # kratký popis, max 160 znaků
 mail:
 - adam.vales@pirati.cz
 profiles:

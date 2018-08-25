@@ -2,11 +2,11 @@
 uid: petr.tkadlec
 name:     Petr Tkadlec  	# běžně používáné jméno
 fullname: Petr Tkadlec  	# jméno s tituly etc.
-category:                   # kategorie: clenove
-- clenove
+category:                   # kategorie: clen
+- clen
 
 img: people/petr-tkadlec.png   # 165 x 220
-description: samoživitel, stavební technik # kratký popis, max 160 znaků
+description: Samoživitel, stavební technik, aktivista v oblasti hospodaření s veřejnými financemi a majetkem.  # kratký popis, max 160 znaků
 mail:
 - petr.tkadlec@pirati.cz
 profiles:

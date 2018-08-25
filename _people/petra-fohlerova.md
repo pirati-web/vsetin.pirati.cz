@@ -2,11 +2,11 @@
 uid: petra.fohlerova
 name:     Petra Bambušková Fohlerová  	# běžně používáné jméno
 fullname: Mgr. Petra Bambušková Fohlerová  	# jméno s tituly etc.
-category:                   # kategorie: clenove
-- clenove
+category:                   # kategorie: clen
+- clen
 
 img: people/ppp.jpg   # 165 x 220
-description: sociální pracovnice # kratký popis, max 160 znaků
+description: Sociální pracovnice. # kratký popis, max 160 znaků
 mail:
 - petra.fohlerova@pirati.cz
 profiles:

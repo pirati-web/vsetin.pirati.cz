@@ -2,11 +2,11 @@
 uid: vaclav.vcelica
 name:     Václav Včelica  	# běžně používáné jméno
 fullname: Ing. Václav Včelica  	# jméno s tituly etc.
-category:                   # kategorie: clenove
-- clenove
+category:                   # kategorie: clen
+- podporovatel
 
 img: people/vaclav-vcelica.jpg   # 165 x 220
-description: registrovaný příznivec Pirátské strany, člen expertního týmu Pirátské strany pro dopravu # kratký popis, max 160 znaků
+description: Příznivec Pirátské strany, člen expertního týmu Pirátské strany pro dopravu, lídr kandidátky v komunálních volbách 2018. # kratký popis, max 160 znaků
 mail:
 - vaclav.vcelica@gmail.com
 ---

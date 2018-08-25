@@ -2,12 +2,11 @@
 uid: simona.krcmarova
 name:     Simona Krčmářová  	# běžně používáné jméno
 fullname: Simona Krčmářová  	# jméno s tituly etc.
-category:                   # kategorie: clenove
-- clenove
+category:                   # kategorie: clen
 - pms
 
 img: people/simona-krcmarova.png   # 165 x 220
-description: studentka # kratký popis, max 160 znaků
+description: 1. místopředsedkyně místního sdružení, studentka. # kratký popis, max 160 znaků
 mail:
 - simona.krcmarova@pirati.cz
 profiles:

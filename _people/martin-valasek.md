@@ -2,8 +2,8 @@
 uid: martin.valasek
 name:     Martin Valášek  	# běžně používáné jméno
 fullname: Martin Valášek  	# jméno s tituly etc.
-category:                   # kategorie: clenove
-- clenove
+category:                   # kategorie: clen
+- clen
 
 img: people/martin-valasek.jpg   # 165 x 220
 description: hudební dramaturg v kulturní agentuře # kratký popis, max 160 znaků

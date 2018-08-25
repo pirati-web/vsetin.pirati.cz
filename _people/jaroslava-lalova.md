@@ -2,11 +2,11 @@
 uid: jaroslava.lalova
 name:     Jaroslava Lálová  	# běžně používáné jméno
 fullname: Jaroslava Lálová  	# jméno s tituly etc.
-category:                   # kategorie: clenove
-- clenove
+category:                   # kategorie: clen
+- clen
 
 img: people/jaroslava-lalova.png   # 165 x 220
-description: administrativní pracovnice # kratký popis, max 160 znaků
+description: Administrativní pracovnice, kandidátka do zastupitelstva ve Vsetíně. # kratký popis, max 160 znaků
 mail:
 - jaroslava.lalova@pirati.cz
 profiles:

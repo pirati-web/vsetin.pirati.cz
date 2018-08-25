@@ -1,4 +1,5 @@
 ---
+redirect_from: "/volby-2018/program.html"
 layout: page
 title: Volební program
 rbar: ""

@@ -1,4 +1,5 @@
 ---
+redirect_from: "/volby-2018/kandidati.html"
 layout: page
 title: Kandidáti do zastupitelstva
 rbar: ""

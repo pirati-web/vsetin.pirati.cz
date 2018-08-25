@@ -1,7 +1,7 @@
 ---
 redirect_from: "/volby-2018/program.html"
 layout: page
-title: Volební program
+title: Program Pirátů Vsetín pro komunální volby 2018
 rbar: ""
 ---
 

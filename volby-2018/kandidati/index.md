@@ -1,7 +1,7 @@
 ---
 redirect_from: "/volby-2018/kandidati.html"
 layout: page
-title: Kandidáti do zastupitelstva
+title: Seznam kandidátů do zastupitelstva Vsetín
 rbar: ""
 ---
 

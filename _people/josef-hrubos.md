@@ -13,8 +13,6 @@ profiles:
   facebook: https://www.facebook.com/josef.hrubos
 ---
 
-Josef Hruboš (*8. října 1988, Vsetín) vystřídal několik zaměstnání bez zjevného naplnění užitečnou prací.
+Josef Hruboš (*8. října 1988, Vsetín) 29 let, OSVČ, servisní technik, odborník na světelné znečištění, člen České pirátské strany.
 
-Líbí se mu možnost účinně ovlivňovat směřování Pirátů a jejich politiky, protože se podle něj ve straně o důležitých otázkách rozhoduje demokratickým hlasováním na základě pirátské základny a jejích členů.
-
-Od roku 2013 aktivním členem České pirátské strany.
+Na Pirátech se mu líbí možnost účinně ovlivňovat směřování strany a její politiky, protože se v této straně o důležitých otázkách rozhoduje rychlým a demokratickým hlasováním členů.

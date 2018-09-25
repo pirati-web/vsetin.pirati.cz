@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Vsetínští piráti rozšiřují program'
-date: '2018-09-25 12:05:00 -0400'
+date: '2018-09-25'
 author: Václav Včelica
 authorId: vaclav.vcelica
 image: /assets/img/posts/domov.vyhlidka.small.jpg

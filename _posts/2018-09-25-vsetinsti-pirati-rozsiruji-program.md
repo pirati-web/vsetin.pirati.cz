@@ -6,7 +6,7 @@ date: '2018-09-25'
 author: Václav Včelica
 authorId: vaclav.vcelica
 image: /assets/img/posts/domov.vyhlidka.small.jpg
-tags: 'socialni-zastupitelstvo-volby-2018 report'
+tags: 'socialni zastupitelstvo volby-2018 report'
 ---
 Poslední zastupitelstvo vsetínským občanům ukázalo, že pro žádnou ze stávajících stran a uskupení není sociální oblast až tak důležitá. Konkrétně to bylo vidět při jednání nad bodem o poskytnutí dotace Diakonii Vsetín na dovybavení domova pro seniory Vyhlídka ve výši 1 miliónu korun, přičemž potřebná částka, aby domov pro seniory mohl začít vůbec fungovat, je čtyřnásobná. Bez lůžek a dalšího vybavení totiž domov Vyhlídka nemůže poskytovat péči.
 

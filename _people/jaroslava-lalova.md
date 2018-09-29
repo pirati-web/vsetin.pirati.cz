@@ -6,14 +6,14 @@ category:                   # kategorie: clen
 - clen
 
 img: people/jaroslava-lalova.png   # 165 x 220
-description: Administrativní pracovnice, kandidátka do zastupitelstva ve Vsetíně. # kratký popis, max 160 znaků
+description: Administrativní pracovnice u Policie ČR, kandidátka do zastupitelstva ve Vsetíně. # kratký popis, max 160 znaků
 mail:
 - jaroslava.lalova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jaroslava.lalova
 ---
 
-Jaroslava Lálová (*7. prosince 1966, Vsetín) bydlí a pracuje na Vsetíně.
+Jaroslava Lálová (*7. prosince 1966, Vsetín) administrativní pracovnice u Policie ČR, členka České pirátské strany.
 
 K Pirátům vstoupila, aby se mohla aktivně podílet na dění v naší zemi. Nejvíce se ji na Pirátech libí, že politika může být slušná, poctivá, transparentní. Vnímá u nich otevřenost novým myšlenkám a různým alternativním směrům.
 

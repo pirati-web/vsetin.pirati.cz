@@ -12,7 +12,7 @@ rbar: ""
 3. [**Simona Krčmářová**](/lide/simona-krcmarova), 19 let, studentka filosofické fakulty Ostravské univerzity, místopředsedkyně Místního sdružení Pirátů , Piráti
 4. [**Bc. Radek Nohavica**](/lide/radek-nohavica), 22 let, student strojírenství a kvality výroby na VUT v Brně, předseda Místního sdružení Pirátů, Piráti
 5. **Jaromír Fojtů**, 33 let, programátor, softwarový odborář, Piráti
-6. [**Jaroslava Lálová**](/lide/jaroslava-lalova), 51 let, administrativní pracovnice, Piráti
+6. [**Jaroslava Lálová**](/lide/jaroslava-lalova), 51 let, administrativní pracovnice u Policie ČR, Piráti
 7. **Bc. Markéta Dostálová**, 31 let, obalový referent, psavkyně v life style časopisech, překladatelka, BEZPP
 8. [**Josef Hruboš**](/lide/josef-hrubos), 29 let, OSVČ, servisní technik, odborník na světelné znečištění, Piráti
 9. **Bc. Michal Zimek**, 30 let, logista, BEZPP

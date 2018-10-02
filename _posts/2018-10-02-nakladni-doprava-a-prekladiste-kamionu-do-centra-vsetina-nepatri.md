@@ -22,20 +22,12 @@ Taktéž Baťovy lesy by mohly uvolnit prostor pro rozvoj vsetínské nemocnice.
 
 >„Uvědomujeme si, že jednání se soukromími vlastníky i státní organizací je vždy složité a je i o dlouhodobém vytváření vztahů a důvěry. Pokud by však na naše nabídky přistoupili, podpořily by tím rozvoj Vsetína a sami tím získaly lepší možnosti k podnikání,“
 
-podotkl na adresu Baťových lesů a Správy železniční dopravní cesty Radek Nohavica, předseda místního sdružení Pirátů. Piráti nejsou apriori proti řešení, které je nyní vyprojektované do podoby projektu pro územní rozhodnutí, chtějí jej ale vylepšit. Na stránkách https://vsetin.pirati.cz/ si lze prohlédnout aktuální podobu nádraží i podchodu u Křivačkárny. K těmto podkladům se Piráti dostali až po žádosti o informace na SŽDC, protože město Vsetín podobné podrobné informace nezveřejňuje.
+podotkl na adresu Baťových lesů a Správy železniční dopravní cesty Radek Nohavica, předseda místního sdružení Pirátů. Piráti nejsou apriori proti řešení, které je nyní vyprojektované do podoby projektu pro územní rozhodnutí, chtějí jej ale vylepšit. Na stránkách <a href="https://vsetin.pirati.cz/">https://vsetin.pirati.cz/</a> si lze prohlédnout aktuální podobu nádraží i podchodu u Křivačkárny. K těmto podkladům se Piráti dostali až po žádosti o informace na SŽDC, protože město Vsetín podobné podrobné informace nezveřejňuje.
 
 - - -
 
 Přílohy: <a href="/assets/pdf/vizualizace.nadrazi.pdf">Vizualizace železničního nádraží</a>
 
 - - -
-
-Více informací poskytne:
-
- T: 773 23 66 23 (Václav Včelica)
- E: vaclav.vcelica@gmail.com
-
- W: https://vsetin.pirati.cz/
-FB: https://cs-cz.facebook.com/pirativsetin/
 
 „Aby Vsetín nezůstal na vedlejší koleji“

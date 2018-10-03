@@ -19,7 +19,7 @@ rbar: ""
 10. **Leona Kolínková**, 24 let, grafička, BEZPP
 11. **Jiří Pala**, 22 let, žurnalista, Piráti
 12. **Milan Jankovský**, 57 let, elektrotechnik, opravář počítačů, BEZPP
-13. **Jan Merenda**, 35 let, strojař, technik, BEZPP
+13. [**Jan Merenda**](/lide/jan-merenda), 35 let, strojař, technik, BEZPP
 14. **Štěpánka Valešová**, 19 let, studentka gymnázia, BEZPP
 15. **Stanislav Stančák**, 32 let, dělník v oblasti stínící techniky, BEZPP
 16. **Adam Valeš**, 26 let, programátor, místopředseda Místního sdružení Pirátů, Piráti

@@ -6,9 +6,9 @@ category:                   # kategorie: clen
 - podporovatel
 
 img: people/jan-merenda.jpg   # 165 x 220
-description: Příznivec Pirátské strany, člen expertního týmu Pirátské strany pro dopravu, lídr kandidátky v komunálních volbách 2018. # kratký popis, max 160 znaků
+description: Příznivec Pirátské strany, strojař, pedagog volného času # kratký popis, max 160 znaků
 mail:
-- vaclav.vcelica@gmail.com
+- jan.merenda@centrum.cz
 ---
 
 Jan Merenda (*1982, Vsetín), strojař, technik, registrovaný příznivec Pirátské strany.

@@ -22,20 +22,30 @@ Obce pak nebudou překvapeny až zjistí, že stávající poplatek za skládkov
 
 - - -
 
+
 Vypracoval Václav Včelica s přispěním Honzy Merendy (oba nezávislí kandidáti za Piráty)
+
 
 - - -
 
+
 Podklady:
+
 <a href="https://portal.cenia.cz/eiasea/detail/EIA_ZLK879">Oznámení EIA</a>
 
 <a href="/assets/pdf/EIA_Vsetín_posudek.pdf">Posudek RNDr. Petrlíka</a>
 
+
+- - -
+
+
 <a href="https://www.mzp.cz/C1257458002F0DC7/cz/plan_odpadoveho_hospodarstvi_zlinsky_kraj/$FILE/OODP-Zl%C3%ADn_Region_CZ-20160120.pdf">Plán odpadového hospodářství Zlínského kraje.pdf</a>
 
 
-Obecně o odpadovém zákoně + ceny za skládkování, možné dotace:
+Obecně o odpadovém zákoně:
+
 <a href="https://ekolist.cz/cz/zpravodajstvi/zpravy/cr-musi-do-r-2024-vyresit-jak-nalozi-s-2-mil-tun-odpadu-rocne">Článek ČTK: ČR musí do roku 2024 vyřešit, jak naloží s 2 miliony tun odpadu ročně</a>
+
 <a href="https://www.mzp.cz/cz/news_160505_zakon_odpady">Článek MŽP: ČR nechce být skládkovací velmocí. Nový zákon o odpadech zvýší recyklaci a vytvoří 40 000 nových pracovních míst</a>
 
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjinrOstcLeAhXQy6QKHWxlBsIQFjAAegQIBhAC&url=http%3A%2F%2Fwww.hnutiduha.cz%2Fsites%2Fdefault%2Ffiles%2Fpublikace%2Ftypo3%2FMech-bio_uprava_odpadku.pdf&usg=AOvVaw02tj6BkFjfk7HHp9GKqDfq">Prospekt k technologii MBÚ od Hnutí Duha - starší dokument</a>
@@ -43,23 +53,35 @@ Obecně o odpadovém zákoně + ceny za skládkování, možné dotace:
 <a href="http://www.calla.cz/index.php?path=odpady&php=2_vystava.php">Problematika odpadového hospodářství v celé šíři - Calla</a>
 
 Polemika ke efektivitě spaloven a jejich ekonomice:
+
 <a href="http://www.caoh.cz/odborne-clanky-a-aktuality/caoh-v-casopisu-odpady-spalovny-skutecne-ta-nejlepsi-varianta-zpracovani-komunalniho-odpadu.html">ČAOH v časopisu Odpady - Spalovny - skutečně ta nejlepší varianta zpracování komunálního odpadu?</a>
+
 <a href="http://zpravy.e15.cz/byznys/prumysl-a-energetika/petr-havelka-stavba-spaloven-ted-nema-ekonomickou-logiku-997019">Rozhovor v E15: Petr Havelka – Stavba spaloven teď nemá ekonomickou logiku</a>
+
 <a href="http://www.caoh.cz/odborne-clanky-a-aktuality/probehl-seminar-aktualni-otazky-mechanickych-a-biologickych-uprav-sko.html">Seminář „Aktuální otázky mechanických a biologických úprav SKO 2017“</a>
 
 MBÚ - aktuální zkušenosti z Německa:
+
 <a href="https://www.odpady-portal.sk/Dokument/103322/nemecke-skusenosti-s-mbu.aspx">www.odpady-portal.sk: Nemecké skúsenosti s MBÚ</a>
+
 <a href="https://www.odpady-portal.sk/Dokument/103346/nemecke-skusenosti-s-mbu-2-cast.aspx">www.odpady-portal.sk: Nemecké skúsenosti s MBÚ – 2. časť</a>
 
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=2ahUKEwjjsaqStcLeAhUFsKQKHYRcB7wQFjADegQIBRAC&url=http%3A%2F%2Fwww.mb-eko.cz%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2Fcategory%2Fsekce-webu%2Fhlavni%2Faktualita%2Fzprava-mbu.pdf&usg=AOvVaw0qaRYTwcX77bcupHiAWClA">Podklad pro žádosti o dotace na MBÚ - velmi podrobný dokument</a>
 
 Polemika na serveru www.euro.cz:
-<a href="https://www.euro.cz/blogy/jak-se-propalit-k-dalsi-mete-1413212">Spalování ANO</a> vs. https://www.euro.cz/archiv/pec-nam-spadla-1413213">Spalování NE</a>
+
+<a href="https://www.euro.cz/blogy/jak-se-propalit-k-dalsi-mete-1413212">Spalování ANO</a> vs. <a href="https://www.euro.cz/archiv/pec-nam-spadla-1413213">Spalování NE</a>
 
 Web lobby spaloven: <a href>www.odpadjeenergie.cz</a>, který provozuje sdružení STEO
-- zpochybňování MBÚ, rádi citují staré studie, navíc v Německu, odkud data berou je situace jiná, tam už mají desítky MBÚ. Proto i doporučení nestavět další MBÚ v Německu:
+
+Zpochybňování MBÚ, rádi citují staré studie, navíc v Německu, odkud data berou je situace jiná, tam už mají desítky MBÚ. Proto i doporučení nestavět další MBÚ v Německu:
+
 <a href="http://www.odpadjeenergie.cz/mbu-a-jine/mbu/nemecke-zkusenosti-s-mechanicko-biologickou-upravou-komunalnich-odpadu">http://www.odpadjeenergie.cz/mbu-a-jine/mbu/nemecke-zkusenosti...</a>
+
 <a href="http://www.odpadjeenergie.cz/mbu-a-jine/mbu/">http://www.odpadjeenergie.cz/mbu-a-jine/mbu/</a>
+
+
 - - -
+
 
 „Aby Vsetín ozdravěl a byl zelenější“

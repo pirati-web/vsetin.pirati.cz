@@ -5,7 +5,7 @@ title: 'Stanovisko Pirátů ke vsetínské spalovně odpadů'
 date: '2018-11-07'
 author: Václav Včelica
 authorId: vaclav.vcelica
-image: /assets/img/posts/zevo.jpg
+image: /assets/img/posts/teplarna.jpg
 tags: 'spalovna ZEVO EIA odpad vsetin 2018'
 ---
 Po prostudování dokumentace Vsetínské spalovny a stanoviska odborníka z Arniky, RNDr. Jindřicha Petrlíka, k hodnocení vlivu záměru spalovny na životní prostředí jsme se rozhodli přispět do diskuze věcnou argumentací a několika doporučeními.

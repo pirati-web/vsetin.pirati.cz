@@ -33,7 +33,7 @@ Podklady:
 
 <a href="https://portal.cenia.cz/eiasea/detail/EIA_ZLK879">Oznámení EIA</a>
 
-<a href="/assets/pdf/EIA_Vsetín_posudek.pdf">Posudek RNDr. Petrlíka</a>
+<a href="/assets/pdf/EIA_Vsetin_posudek.pdf">Posudek RNDr. Petrlíka</a>
 
 
 - - -

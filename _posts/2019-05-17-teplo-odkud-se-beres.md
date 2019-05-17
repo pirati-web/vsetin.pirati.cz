@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Teplo, odkud se bereš?'
-date: '2019-05-17'
+date: '2019-05-16'
 author: Václav Včelica
 authorId: vaclav.vcelica
 image: /assets/img/posts/teplarna1.jpg
@@ -15,7 +15,7 @@ Nejjednodušší je nechat si teplo dodávat, jako to dělá oněch více než 8
 Avšak není pouze oněch 8 tisíc domácností ve Vsetíně, ostatní si opatřují teplo jinak. Zaměřme se především na bytové domy, které jsou nejčastějšími odběrateli tepla ZTV. Ty mají možnost si pořídit vlastní kotel na plyn, tepelné čerpadlo, systém solárních kolektorů a fotovoltaických panelů na střechu, rekuperační jednotky pro jednotlivé byty, nebo některou z kombinaci předešlých možností. Záleží na kvalitě zateplení domu a jeho situování.
 
 Vlastní plynovou kotelnu zvolí nejspíše ty bytovky, které mají horší zateplení. Ušetří tak za distribuci tepla z tepláren, spalují plyn v kondenzačních kotlích s účinností až 104%. Přitom teplárny spalují plyn pouze s účinností kolem 89%, z čehož 41% je vyrobená elektrická energie. Dalších 3-8% tepla se ztrácí při distribuci tepla domácnostem. U tepla z libereckého ZEVO je to až 40%. Tuto neefektivní výrobu a distribuci pak platí odběratelé tepla, samozřejmě plus zisk tepláren. Už jen to je důvod pro to, odstřihnout se od monopolního výrobce tepla již nyní.
- 
+
 Pokud je vaše bytovka dobře zateplena, můžete zvážit instalaci tepelného čerpadla na střeše domu. V kombinaci se solárními systémy to může být kvalitní náhrada tepla z tepláren. Velmi dobře zateplené bytovky s izolací stěn 20 cm a více v podstatě nemusí vytápět byty klasickými radiátory, je u nich třeba zajistit především řádné větrání místností a hodí se pro ně malé rekuperační jednotky  s případným elektrickým dohřevem vzduchu při extrémních mrazech. Výrobu teplé užitkové vody pak zajistí tepelné čerpadlo buď přímo v jednotce či společně pro bytovku, případně plynový kotel.
 
 V minulosti byla většina bytovek zateplena, avšak z dnešního pohledu se již jedná o zateplení nedostatečné. Podceněno bylo i zajištění pravidelné výměny vzduchu v bytech. Přitom v obvykle velké ložnici již po 4 hodinách dochází při zavřených oknech k překračování předepsaných hodnot koncentrace oxidu uhličitého. Nikdo v půlce noci většinou nevstává vyvětrat a polootevřená okna si přes noc nechává z důvodu úniku tepla a průvanu málokdo. Stejně tak i po 20 minutách ve školních třídách je koncentrace CO2 překračována. Důsledky špatného větrání jsou nesoustředěnost, bolesti hlavy, podrážděnost. Z tohoto pohledu jsou rekuperační jednotky nejlepší volbou, a proto jsou i do budoucnu preferovány z pohledu postupu EU, která si klade za cíl zvyšovat počet pasivních domů. Pro ty nebude mít dodávka tepla z tepláren smysl.

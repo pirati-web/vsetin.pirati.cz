@@ -6,7 +6,7 @@ date: '2019-05-17'
 author: Václav Včelica
 authorId: vaclav.vcelica
 image: /assets/img/posts/teplarna1.jpg
-ogimage: /assets/img/posts/teplarna1.jpg
+ogimage: /assets/img/miscellaneous/teplarna1.jpg
 tags: 'spalovna ZEVO EIA odpad vsetin 2019'
 ---
 Zásobování teplem Vsetín a.s.(ZTV) dodává ve Vsetíně teplo 8 289 domácnostem, 28 průmyslovým podnikům a 63 organizacím a institucím státu a měst. Ostatní si teplo obstarávají jinak. Vzhledem k tomu, že přicházejí klimatické změny, je na čase ptát, jak si lze teplo opatřit efektivně, ekologicky a ekonomicky příznivě.

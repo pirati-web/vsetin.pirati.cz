@@ -6,7 +6,7 @@ date: '2019-05-18'
 author: Václav Včelica
 authorId: vaclav.vcelica
 image: /assets/img/posts/bioodpad1.jpg
-og: image /assets/img/posts/bioodpad1.jpg
+ogimage: /assets/img/miscellaneous/bioodpad1.jpg
 tags: 'spalovna ZEVO EIA odpad vsetin 2019'
 ---
 V článku se zaměříme především na bioodpad z bytových domů, protože lidé z rodinných domů si mohou kompostovat na zahradě. Běžný občan ze vsetínských sídlišť nemá mnoho možností, jak recyklovat bioodpad z domácnosti.

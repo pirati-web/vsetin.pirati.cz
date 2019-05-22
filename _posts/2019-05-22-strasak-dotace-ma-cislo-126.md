@@ -9,7 +9,7 @@ image: /assets/img/posts/dotace1.jpg
 ogimage: /assets/img/miscellaneous/dotace1.jpg
 tags: 'spalovna ZEVO EIA odpad vsetin 2019'
 ---
-Nevěřili byste, ale i na zařízení pro energetické spalování odpadu, tzv. ZEVO, lze získat dotaci. Výzva z Operačního programu Životní prostředí má číslo 126 a je vypsána na září 2019.
+Nevěřili byste, ale i na zařízení pro energetické využití odpadu, tzv. ZEVO, lze získat dotaci. Výzva z Operačního programu Životní prostředí má číslo 126 a je vypsána na září 2019.
 
 V někom by tato informace mohla vyvolat hněv, který by obrátil proti Evropské unii v následujících volbách do Evropského parlamentu. To ale není správný terč, protože o tom, na co půjdou prostředky z EU nerozhoduje Brusel ale politici z Česka. Proto oproti zbytku Evropy zůstává v ČR zachována podpora biopaliv první generace a tedy i pěstování řepky, přestože bylo již několikrát nevyvratitelně dokázáno, že to nedává ekonomicky ani ekologicky smysl, krom finanční podpory těch zemědělců, kteří si neváží půdy a krajiny, kterou drancují za účelem svých krátkodobých zisků. Kdosi v Praze na ministerstvu životního prostředí (spadá pod ministra Richarda Brabce, ANO) podlehl lobbingu firem pohybujících se okolo spalovačů odpadu a Sdružení provozovatelů technologií pro ekologické využívání odpadů (STEO) a odsouhlasil, že do výzvy bude zařazena i podpora výstavby spaloven komunálního odpadu, které budou odpadní teplo dále nějak využívat.
 

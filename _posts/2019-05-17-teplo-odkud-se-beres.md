@@ -30,12 +30,12 @@ Pokud se odpojí dostatek bytových domů od centrálního zásobování teplem,
 Tento článek je prvním ze série šesti článků, které jsme se rozhodli k tématu spalovny a odpadů vydat. V dalších článcích se zaměříme na bioodpad jako jednu z hlavních složek směsného odpadu, dále se zaměříme na zdravotní rizika spalovny, řekneme si přímé alternativy ke spalovně, jak lze jinak odpad využít a třídit, a kde na to město může získat potřebné finance.
 
 Celý seriál článků najdete postupně pod těmito odkazy:
-1. Teplo, odkud se bereš?
-2. Bioodpad, máme plán
-3. Těžké kovy - těžké zdravotní riziko
-4. Strašák dotace má číslo 126
-5. Alternativy k ZEVO
-6. Město – mrtvý brouk
+1. <a href="https://vsetin.pirati.cz/aktuality/teplo-odkud-se-beres.html">Teplo, odkud se bereš?</a>
+2. <a href="https://vsetin.pirati.cz/aktuality/bioodpad-mame-plan.html">Bioodpad, máme plán</a>
+3. <a href="https://vsetin.pirati.cz/aktuality/tezke-kovy-tezke-zdravotni-riziko.html">Těžké kovy - těžké zdravotní riziko</a>
+4. <a href="https://vsetin.pirati.cz/aktuality/strasak-dotace-ma-cislo-126.html">Strašák dotace má číslo 126</a>
+5. <a href="https://vsetin.pirati.cz/aktuality/alternativy-k-zevo.html">Alternativy k ZEVO</a>
+6. <a href="https://vsetin.pirati.cz/aktuality/mesto-mrtvy-brouk.html">Město – mrtvý brouk</a>
 
 - - -
 

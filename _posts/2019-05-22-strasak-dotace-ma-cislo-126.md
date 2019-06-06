@@ -26,10 +26,9 @@ Celý seriál článků najdete postupně pod těmito odkazy:
 1. <a href="https://vsetin.pirati.cz/aktuality/teplo-odkud-se-beres.html">Teplo, odkud se bereš?</a>
 2. <a href="https://vsetin.pirati.cz/aktuality/bioodpad-mame-plan.html">Bioodpad, máme plán</a>
 3. <a href="https://vsetin.pirati.cz/aktuality/tezke-kovy-tezke-zdravotni-riziko.html">Těžké kovy - těžké zdravotní riziko</a>
-4. Strašák dotace má číslo 126
-5. Alternativy k ZEVO
-6. Město – mrtvý brouk
-
+4. <a href="https://vsetin.pirati.cz/aktuality/strasak-dotace-ma-cislo-126.html">Strašák dotace má číslo 126</a>
+5. <a href="https://vsetin.pirati.cz/aktuality/alternativy-k-zevo.html">Alternativy k ZEVO</a>
+6. <a href="https://vsetin.pirati.cz/aktuality/mesto-mrtvy-brouk.html">Město – mrtvý brouk</a>
 - - -
 
 Odkazy:

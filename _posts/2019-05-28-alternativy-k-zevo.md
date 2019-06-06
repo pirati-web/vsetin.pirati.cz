@@ -5,8 +5,8 @@ title: 'Alternativy k ZEVO'
 date: '2019-05-28'
 author: Václav Včelica
 authorId: vaclav.vcelica
-image: /assets/img/posts/bioplyn1.jpg
-ogimage: /assets/img/miscellaneous/bioplyn1.jpg
+image: /assets/img/posts/mbu1.jpg
+ogimage: /assets/img/miscellaneous/mbu1.jpg
 tags: 'spalovna ZEVO EIA odpad vsetin 2019'
 ---
 V tomto článku se zaměříme na alternativy k ZEVO. O alternativách pro vytápění čistšími způsoby jsme psali v úvodním článku <a href="https://vsetin.pirati.cz/aktuality/teplo-odkud-se-beres.html">Teplo, odkud se bereš?</a>. Nyní se budeme věnovat tomu, co může město dělat se svým odpadem.

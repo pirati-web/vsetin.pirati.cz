@@ -9,7 +9,8 @@ image: /assets/img/posts/vlecka.jpg
 ogimage: /assets/img/miscellaneous/vlecka.jpg
 tags: 'rekonstrukce nadrazi vsetin batova pila 2019'
 ---
-Na zastupitelstu 11.9.2019 byla schválena podpora přemístění Baťovy pily z prostoru u Vsetínské nemocnice do průmyslové zóny v Jablůnce. >„Piráti byli jediní, kteří měli v programu vymístění pily a na ní navázané těžké nákladní dopravy z centra města. Jsme rádi, že jednání se zástupci Baťových lesů a majitele areálu v Jablůnce směřují k úspěšnému konci,“ shrnul závěry jednání zastupitelů pirátský lídr Václav Včelica .
+Na zastupitelstu 11.9.2019 byla schválena podpora přemístění Baťovy pily z prostoru u Vsetínské nemocnice do průmyslové zóny v Jablůnce.
+>„Piráti byli jediní, kteří měli v programu vymístění pily a na ní navázané těžké nákladní dopravy z centra města. Jsme rádi, že jednání se zástupci Baťových lesů a majitele areálu v Jablůnce směřují k úspěšnému konci,“ shrnul závěry jednání zastupitelů pirátský lídr Václav Včelica .
 
 Pokud k přemístění pily dojde, bude moci město využít pozemky, na kterých stojí vlečka do areálu Baťových lesů pro další rozvoj nemocnice. Navíc se ušetří desítky miliónů za přeložku železniční vlečky, která již byla zahrnuta do projektu rekonstrukce nádraží.
 

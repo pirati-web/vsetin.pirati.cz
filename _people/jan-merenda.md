@@ -11,7 +11,7 @@ mail:
 - jan.merenda@centrum.cz
 ---
 
-Jan Merenda (*1982, Vsetín), strojař, technik, registrovaný příznivec Pirátské strany.
+Jan Merenda (* 1982, Vsetín), strojař, technik, registrovaný příznivec Pirátské strany.
 
 V letech 2007-2012 byl zaměstnancem Alceda - SVČ Vsetín, kde měl na starosti propagaci střediska a přípravu akcí, například Den Země, Dětský den, ... Dále zde byl pedagogem volného času a organizoval Dětský parlament, což byla nezávislá iniciativa pod záštitou ALCEDA – SVČ Vsetín, která se snažila zapojovat děti a mládež do veřejného dění ve městě. Po odchodu z Alceda se živil jako instruktor lyžování, animátor - pedagog volného času pro veřejnost ve středisku Bílá a také jako vedoucí údržby. Dnes se věnuje svému původnímu zaměření a dělá znovu strojařinu.
 

@@ -14,7 +14,7 @@ profiles:
   facebook: https://www.facebook.com/yf.even
 ---
 
-Yveta Martinková (*24. ledna 1979, Kroměříž) je od srpna 2017 Pirátkou a v listopadu 2017 se stala jednou ze zakladatelů místního sdružení Pirátů Kroměříž.
+Yveta Martinková (* 24. ledna 1979, Kroměříž) je od srpna 2017 Pirátkou a v listopadu 2017 se stala jednou ze zakladatelů místního sdružení Pirátů Kroměříž.
 
 Pracuje na plný plyn jako koordinátorka Zlínského kraje.
 

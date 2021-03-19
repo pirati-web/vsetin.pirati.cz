@@ -10,21 +10,21 @@ top:
     icon: "ico--newspaper"
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-    match: aktuality
-  - link: /lide/
-    name: Lidé
-    match: lide
+#  - link: /aktuality/
+#    name: Aktuality
+#    match: aktuality
+#  - link: /lide/
+#    name: Lidé
+#    match: lide
 #  - link: /pardubicke-piratske-centrum-pardupice/
 #    name: Pirátské centrum
 #    match: pardubicke-piratske-centrum-pardupice
 #  - link: /pomahame/
 #    name: Záchranný kruh
 #    match: pomahame
-  - link: /komunalni-program/
-    name: Komunální program
-    match: komunalni-program
+#  - link: /komunalni-program/
+#    name: Komunální program
+#    match: komunalni-program
   # - link: /kde-jsme/
   #   name: Kde jsme?
   #   match: kde-jsme  

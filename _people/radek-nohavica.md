@@ -1,19 +1,23 @@
 ---
 uid: radek.nohavica
 name:     Radek Nohavica  	# běžně používáné jméno
-fullname: Bc. Radek Nohavica  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: clen
-- pms
 
-img: people/radek-nohavica.png   # 165 x 220
-description: Předseda Místního sdružení, student strojírenství a kvality výroby na VUT v Brně, fotbalový rozhodčí. # kratký popis, max 160 znaků
+
+img: people/radek-nohavica.jpg   # 165 x 220
+heroImg: articles/2020/kampan20/zahajenikampan1.jpg
+description: čerstvý absolvent VUT v Brně<br>komentátor, trenér<br>Vsetín # kratký popis, max 160 znaků
 mail:
 - radek.nohavica@pirati.cz
 profiles:
-ordpms: 1
+facebook: https://www.facebook.com/rnohavica
+
 ---
 
-Bc. Radek Nohavica. (* 18. července 1996) je členem pirátské strany od začátku roku 2018 a zároveň poctivým voličem a příznivcem od 18 let. V červnu 2018 se stal předsedou místního sdružení Vsetín.
+Ing. Radek Nohavica. (* 18. července 1996) je členem pirátské strany od začátku roku 2018 a zároveň poctivým voličem a příznivcem od 18 let. V červnu 2018 se stal předsedou místního sdružení Vsetín.
 
 Vystudoval bakalářské studium na Vysokém učení technickém v Brně, obor Stavba strojů a zařízení. Momentálně studuje v navazujícím magisterském programu na stejné škole, konkrétně obor Kvalita, spolehlivost a bezpečnost.
 

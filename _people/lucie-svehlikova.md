@@ -19,7 +19,6 @@ profiles:
   facebook:  https://www.facebook.com/lucie.svehlikova/
     
 funkce:
- - krajská mediální specialistka
- - krajský kontakt pro sněmovní volby
+ - kontakt pro média
 
 ---

@@ -4,7 +4,7 @@ uid: hermanuv.mestec
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: prvni.leader
-  age: 31
+  age: 32
   profession: knihovník
   party: Piráti
   description: expert na skoky # zobrazuje se v komunalni-volby

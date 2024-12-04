@@ -4,7 +4,7 @@ uid: cervena.voda
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: prvni.leader
-  age: 31
+  age: 33
   profession: knihovník
   party: Piráti
   description: expert na skoky # zobrazuje se v komunalni-volby

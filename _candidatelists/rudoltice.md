@@ -47,7 +47,7 @@ tail: # zbytek kandidatky
       profession: architekt
       partyUid: bezpp
     - name: Petr Beránek
-      age: 43
+      age: 42
       profession: operátor
       partyUid: bezpp
     - name: Jakub Loskot

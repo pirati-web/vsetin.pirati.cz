@@ -23,7 +23,7 @@ tail: # zbytek kandidatky
 # jedinná povinná položka je name zbytek můžete vynechat
 # věk se uvádí k poslednímu dni voleb
     - name: Luboš Ščuška
-      age: 37
+      age: 32
       profession: řidič
       partyUid: bezpp
     - name: Ing. Vilém Jílek

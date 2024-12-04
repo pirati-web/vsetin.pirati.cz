@@ -4,7 +4,7 @@ uid: hlinsko
 #number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: roman.rybacek
-  age: 25
+  age: 26
   profession: OSVČ
   partyUid: bezpp
   description:  # zobrazuje se v komunalni-volby
